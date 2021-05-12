@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# SimplifyMarkets Frontend
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+npm install package.json
 
 ## Available Scripts
 
